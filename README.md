@@ -22,8 +22,8 @@
 
 <!-- BADGES -->
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Live-00aaff?style=for-the-badge&labelColor=0d0d0d)](https://mparsaahmadi.ir/)
-[![Stars](https://img.shields.io/github/stars/yourusername/portfolio?style=for-the-badge&logo=github&color=007BFF&labelColor=0d0d0d)](https://github.com/yourusername/portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/portfolio?style=for-the-badge&logo=github&color=007BFF&labelColor=0d0d0d)](https://github.com/yourusername/portfolio/network/members)
+[![Stars](https://img.shields.io/github/stars/MParsaAhmadi/Resume-website?style=for-the-badge&logo=github&color=007BFF&labelColor=0d0d0d)](https://github.com/MParsaAhmadi/Resume-website/stargazers)
+[![Forks](https://img.shields.io/github/forks/MParsaAhmadi/Resume-website?style=for-the-badge&logo=github&color=007BFF&labelColor=0d0d0d)](https://github.com/MParsaAhmadi/Resume-website/network/members)
 [![License](https://img.shields.io/badge/License-MIT-00aaff?style=for-the-badge&labelColor=0d0d0d)](LICENSE)
 
 <!-- TECH STACK BADGES -->
@@ -42,7 +42,7 @@
 <em>Designed with a "programmer/hacker" aesthetic • Dark theme • Matrix rain animation</em>
 </p>
 
-[**🌐 View Live Demo**](https://mparsaahmadi.ir/) • [**Report Bug**](https://github.com/yourusername/portfolio/issues) • [**Request Feature**](https://github.com/yourusername/portfolio/issues)
+[**🌐 View Live Demo**](https://mparsaahmadi.ir/) • [**Report Bug**](https://github.com/MParsaAhmadi/Resume-website/issues) • [**Request Feature**](https://github.com/MParsaAhmadi/Resume-website/issues)
 
 </div>
 
@@ -196,10 +196,10 @@ yarn add      # Not needed!
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/MParsaAhmadi/Resume-website.git
 
 # 2. Navigate to project directory
-cd portfolio
+cd Resume-website
 
 # 3. Open in your browser
 # Option A: Double-click index.html
@@ -499,7 +499,7 @@ See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/yourusername" width="100" height="100" style="border-radius: 50%"/>
+<img src="https://avatars.githubusercontent.com/MParsaAhmadi" width="100" height="100" style="border-radius: 50%"/>
 
 ### **Mohammad Parsa Ahmadi**
 
@@ -507,10 +507,10 @@ See [`LICENSE`](LICENSE) for more information.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MParsaAhmadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MParsaAhmadi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MParsaAhmadi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MParsaAhmadi)
 
 </div>
 
